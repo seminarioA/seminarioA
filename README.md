@@ -6,4 +6,4 @@ I spend my days using these technologies:
 - JavaScript
 - LaTeX
 - - -
-
+When I'm not sleeping, I'm studying.
