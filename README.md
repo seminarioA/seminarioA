@@ -5,7 +5,7 @@ I spend my days using these technologies:
 - ORACLE SQL
 - Python
 - Java
-- JavaScript
+- JavaScript and Node Js
 - LaTeX
 - - -
 When I'm not sleeping, I'm studying.
