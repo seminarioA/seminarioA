@@ -13,7 +13,7 @@ SQL:
 
 [![sqlite.png](https://i.postimg.cc/7PXw9mQK/sqlite.png)](https://postimg.cc/dD7btmFC)
 [![postgresql.png](https://i.postimg.cc/xdKSzRzy/postgresqp.png)]()
-[![mongodb](https://i.postimg.cc/BZNNvKX8/mongodb.png)](https://postimg.cc/0rM7WrGx)
+[![mongodb](https://i.postimg.cc/htQ0MZMx/mongodb-2.png)](https://postimg.cc/RW9fZRkV)
 
 Python:
 
