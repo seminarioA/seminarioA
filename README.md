@@ -7,7 +7,7 @@
 Programming languages:
 
 [![python.png](https://i.postimg.cc/fyMWLPq9/python.png)](https://postimg.cc/WFfcY5vN)
-[![java.png](https://i.postimg.cc/vH3KCKWN/java-original-1.png)](https://postimg.cc/3d09vnfX)
+[![java.png](https://i.postimg.cc/GtbM5P9R/java.png)](https://postimg.cc/TLHqyDrN)
 
 SQL:
 
