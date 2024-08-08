@@ -11,7 +11,6 @@
 | Institucion | Grado |
 | --- | ---- |
 | UTP | Ingenieria de Sistemas e Informatica |
-| --- | ---- |
 | Verde | #008000 |
 ##
 When I'm not sleeping, I'm studying.
