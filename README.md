@@ -20,9 +20,8 @@ Python:
 [![numpy.png](https://i.postimg.cc/YCTW9p6L/numpy.png)](https://postimg.cc/21F69NXC)
 
 ## Education - Educacion
-| Institucion | Grado |
+| [![utp](https://i.postimg.cc/QCp3pJwr/utp.png)](https://postimg.cc/RJVymKvP) | Ingenieria de Sistemas e Informatica |
 | --- | ---- |
-| UTP | Ingenieria de Sistemas e Informatica |
-| Verde | #008000 |
+| UTP |  |
 ##
 When I'm not sleeping, I'm studying.
