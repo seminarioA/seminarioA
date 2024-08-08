@@ -20,8 +20,8 @@ Python:
 [![numpy.png](https://i.postimg.cc/YCTW9p6L/numpy.png)](https://postimg.cc/21F69NXC)
 
 ## Education - Educacion
-| [![utp](https://i.postimg.cc/QCp3pJwr/utp.png)](https://postimg.cc/RJVymKvP) | Ingenieria de Sistemas e Informatica |
-| --- | ---- |
-| UTP |  |
+Universidad Tecnologica del Peru
+Ingenieria de Sistemas e Informatica
+
 ##
 When I'm not sleeping, I'm studying.
