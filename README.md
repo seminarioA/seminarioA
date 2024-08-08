@@ -11,7 +11,7 @@ Programming languages:
 SQL:
 
 [![sqlite.png](https://i.postimg.cc/7PXw9mQK/sqlite.png)](https://postimg.cc/dD7btmFC)
-[![postgresql.png](https://i.postimg.cc/xdKSzRzy/postgresqp.png)](https://postimg.cc/HJsKGb3V)
+[![postgresql.png](https://i.postimg.cc/xdKSzRzy/postgresqp.png)]()
 
 Python:
 
