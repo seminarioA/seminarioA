@@ -5,7 +5,7 @@ Technologies I use - Tecnologías que utilizo
 
 [![python.png](https://i.postimg.cc/fyMWLPq9/python.png)](https://postimg.cc/WFfcY5vN)
 [![java.png](https://i.postimg.cc/L8J9nLDN/java.png)](https://postimg.cc/G41wfBZy)
-[![sqlite.png](https://i.postimg.cc/QtJsRbNx/sqlite.png)](https://postimg.cc/2byPWnBP)
+[![sqlite.png](https://i.postimg.cc/7PXw9mQK/sqlite.png)](https://postimg.cc/dD7btmFC)
 - SQLite
 - Python
 - Java
