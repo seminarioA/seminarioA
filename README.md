@@ -21,6 +21,7 @@ Python:
 
 ## Education - Educacion
 Universidad Tecnologica del Peru
+
 Ingenieria de Sistemas e Informatica
 
 ##
