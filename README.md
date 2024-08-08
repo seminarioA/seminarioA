@@ -20,7 +20,7 @@ Python:
 [![numpy.png](https://i.postimg.cc/YCTW9p6L/numpy.png)](https://postimg.cc/21F69NXC)
 
 ## Education - Educacion
-Universidad Tecnologica del Peru (UTP) - Ingenieria de Sistemas e Informatica
+Universidad Tecnologica del Peru (UTP) - Ingenieria de Sistemas e Informatica (2022)
 
 ##
 When I'm not sleeping, I'm studying.
