@@ -8,4 +8,9 @@
 [![sqlite.png](https://i.postimg.cc/7PXw9mQK/sqlite.png)](https://postimg.cc/dD7btmFC)
 [![postgresql.png](https://i.postimg.cc/xdKSzRzy/postgresqp.png)](https://postimg.cc/HJsKGb3V)
 ## Education - Educacion
+| Color | Código|
+| --- | ---- |
+| Azul | #RRGGBB |
+| Verde | #008000 |
+
 When I'm not sleeping, I'm studying.
