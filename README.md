@@ -2,7 +2,7 @@
 My <a href="https://www.linkedin.com/in/alejandrovalentinoseminariomedina/">LinkedIn</a>
 - - -
 I spend my days using these technologies:
-- ORACLE SQL
+- SQLite
 - Python
 - Java
 - JavaScript and Node Js
