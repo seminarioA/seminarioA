@@ -7,6 +7,8 @@
 [![java.png](https://i.postimg.cc/L8J9nLDN/java.png)](https://postimg.cc/G41wfBZy)
 [![sqlite.png](https://i.postimg.cc/7PXw9mQK/sqlite.png)](https://postimg.cc/dD7btmFC)
 [![postgresql.png](https://i.postimg.cc/xdKSzRzy/postgresqp.png)](https://postimg.cc/HJsKGb3V)
+[![pandas](https://i.postimg.cc/x18v8xBh/Pandas-1.png)](https://postimg.cc/w1KybVqQ)
+
 ## Education - Educacion
 | Institucion | Grado |
 | --- | ---- |
