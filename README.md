@@ -1,6 +1,7 @@
 ## Alejandro Seminario - Software Engineer and Data Engineer
 
-[![linkedin](https://i.postimg.cc/cJj8vdf8/Dise-o-sin-t-tulo-6.png)](https://www.linkedin.com/in/alejandrovalentinoseminariomedina)
+[![linkedin](https://i.postimg.cc/8P2pfsYG/linkedin.png)](https://www.linkedin.com/in/alejandrovalentinoseminariomedina)
+
 ## Technologies I use - Tecnologías que utilizo:
 
 Programming languages:
