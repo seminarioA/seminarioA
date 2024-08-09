@@ -11,7 +11,7 @@ Programming languages:
 
 SQL:
 
-[![sqlite.png](https://i.postimg.cc/7PXw9mQK/sqlite.png)](https://postimg.cc/dD7btmFC)
+[![sqlite](https://i.postimg.cc/Qd3XqmLt/sqlite-2.png)](https://postimg.cc/xc6DfK1D)
 [![postgresql.png](https://i.postimg.cc/xdKSzRzy/postgresqp.png)]()
 [![mongodb](https://i.postimg.cc/htQ0MZMx/mongodb-2.png)](https://postimg.cc/RW9fZRkV)
 
