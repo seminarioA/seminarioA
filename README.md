@@ -17,7 +17,7 @@ SQL:
 
 Python:
 
-[![pandas](https://i.postimg.cc/x18v8xBh/Pandas-1.png)](https://postimg.cc/w1KybVqQ)
+[![pandas](https://i.postimg.cc/x18v8xBh/Pandas-1.png)](https://github.com/seminarioA/pandas)
 [![numpy.png](https://i.postimg.cc/YCTW9p6L/numpy.png)](https://postimg.cc/21F69NXC)
 
 ## Education - Educacion
