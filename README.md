@@ -1,4 +1,4 @@
-## Alejandro Seminario - Software Engineer and Data Engineer
+## Alejandro Seminario - Software Developer and Data Scientist
 
 [![linkedin](https://i.postimg.cc/8P2pfsYG/linkedin.png)](https://www.linkedin.com/in/alejandrovalentinoseminariomedina)
 
@@ -21,7 +21,6 @@ Python:
 [![numpy.png](https://i.postimg.cc/YCTW9p6L/numpy.png)](https://postimg.cc/21F69NXC)
 
 ## Education - Educacion
-- (EN) Universidad Tecnologica del Peru (UTP): Systems and Computer Engineering (2022)
 - (ES) Universidad Tecnologica del Peru (UTP): Ingenieria de Sistemas e Informatica (2022)
 
 ##
