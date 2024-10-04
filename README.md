@@ -4,24 +4,40 @@
 
 ## Technologies I use / Tecnologías que utilizo:
 
-Programming languages:
+<table border="1" align="center">
+    <tr>
+        <th>Programming languages</th>
+        <th colspan="2">Libraries</th>
+        <th>Frameworks</th>
+    </tr>
+    <tr align="center">
+        <td><img src="https://i.postimg.cc/fyMWLPq9/python.png"></td>
+        <td><img src="https://i.postimg.cc/x18v8xBh/Pandas-1.png"></td>
+        <td><img src="https://i.postimg.cc/YCTW9p6L/numpy.png"></td>
+        <td><img src="https://i.postimg.cc/9QG0L0RZ/image-3-1.png"></td>
+    </tr>
+    <tr align="center">
+        <td><img src="https://i.postimg.cc/GtbM5P9R/java.png"></td>
+        <td colspan="2"></td>
+        <td><img src="https://i.postimg.cc/d0Pd0gdm/spring-boot-logo-1.png"></td>
+    </tr>
+</table>
 
-[![python.png](https://i.postimg.cc/fyMWLPq9/python.png)](https://postimg.cc/WFfcY5vN)
-[![java.png](https://i.postimg.cc/GtbM5P9R/java.png)](https://postimg.cc/TLHqyDrN)
-
-SQL:
-
-[![sqlite](https://i.postimg.cc/Qd3XqmLt/sqlite-2.png)](https://postimg.cc/xc6DfK1D)
-[![postgresql.png](https://i.postimg.cc/xdKSzRzy/postgresqp.png)]()
-[![mongodb](https://i.postimg.cc/htQ0MZMx/mongodb-2.png)](https://postimg.cc/RW9fZRkV)
-
-Python:
-
-[![pandas](https://i.postimg.cc/x18v8xBh/Pandas-1.png)](https://github.com/seminarioA/pandas)
-[![numpy.png](https://i.postimg.cc/YCTW9p6L/numpy.png)](https://postimg.cc/21F69NXC)
+<table align="center">
+  <tr align="center">
+    <th colspan="3">SQL</th>
+  </tr>
+  <tr align="center">
+    <td><img src="https://i.postimg.cc/Qd3XqmLt/sqlite-2.png"></td>
+    <td><img src="https://i.postimg.cc/xdKSzRzy/postgresqp.png"></td>
+    <td><img src="https://i.postimg.cc/htQ0MZMx/mongodb-2.png"></td>
+  </tr>
+</table>
 
 ## 📚 Education / Educacion
-- (ES) Universidad Tecnologica del Peru (UTP): Ingenieria de Sistemas e Informatica (2022)
+| Country | University / Universidad              | Entry date | Degree / Grado en |
+|--------|----------------------------------------|------------|-------------------------------------|
+| Perú   | Universidad Tecnologica del Peru (UTP) | 2022       | Ingeniería de Sistemas e Informática
 
 ## 📄 Published articles / Articulos Publicados
 | Date / Fecha| Title of publication / Título de publicación | URL |
