@@ -1,6 +1,6 @@
-## 🧑‍💻 Alejandro Seminario, Software Developer and Data Scientist
-
-<table>
+<h2 align="center">🧑‍💻 Alejandro Seminario</h1>
+<h3 align="center">Software Developer and Data Scientist</h2>
+<table align="center">
    <tr align="center">
        <th colspan="4">
            Social Networks
@@ -12,11 +12,11 @@
     </tr>
 </table>
 
-## Technologies I use / Tecnologías que utilizo:
+<h2 align="center">With what job? / ¿Con qué trabajo?</h2>
 
 <table border="1" align="center">
     <tr>
-        <th>Programming languages</th>
+        <th>Languages</th>
         <th colspan="2">Libraries</th>
         <th>Frameworks</th>
     </tr>
@@ -33,6 +33,8 @@
     </tr>
 </table>
 
+<h3 align="center">SQL</h3>
+
 <table align="center">
   <tr align="center">
     <th colspan="3">SQL</th>
@@ -44,7 +46,8 @@
   </tr>
 </table>
 
-## 📚 Education / Educacion
+<h2 align="center">📚 Education / Educacion</h2>
+
 | Country | University / Universidad              | Entry date | Degree / Grado en |
 |--------|----------------------------------------|------------|-------------------------------------|
 | Perú   | Universidad Tecnologica del Peru (UTP) | 2022       | Ingeniería de Sistemas e Informática
