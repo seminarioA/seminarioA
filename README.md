@@ -81,16 +81,14 @@
       <td>🦭 Git: Comandos básicos para control de versiones</td>
       <td><p><a href="https://medium.com/@alejandroseminario/git-comandos-básicos-para-control-de-versiones-45ec578a6a3c">Presiona aquí</a></p></td>
    </tr>
-   
+   <tr>
+   <td>03/10/2024</td>
+   <td>☕ Modificadores de Acceso en Java: Controlando la Visibilidad del Código</td>
+   <td><p><a href="https://medium.com/@alejandroseminario/modificadores-de-acceso-en-java-controlando-la-visibilidad-del-código-cc0346ff511d">Presiona aquí</a></p></td>
+   </tr>
+   <tr>
+   <td>03/10/2024</td>
+   <td>✍️ Interfaces en Java: Contratos de Comportamiento para Clases</td>
+   <td><p><a href="https://medium.com/@alejandroseminario/️-interfaces-en-java-contratos-de-comportamiento-para-clases-50ff38af9b43">Presiona aquí</a></p></td>
+   </tr>
 </table>
-| |  |  |
-|------------|----------------------------------------------------|-----------|
-|  |   | [][PCBCD] |
-|  |  | [][GCBCV]   |
-| 03/10/2024 | ☕ Modificadores de Acceso en Java: Controlando la Visibilidad del Código | [Presiona aquí][MAJCVC] |
-| 03/10/2024 | ✍️ Interfaces en Java: Contratos de Comportamiento para Clases | [Presiona aquí][IJCCC] |
-
-[PCBCD]:
-[GCBCV]:
-[MAJCVC]:https://medium.com/@alejandroseminario/modificadores-de-acceso-en-java-controlando-la-visibilidad-del-código-cc0346ff511d
-[IJCCC]:https://medium.com/@alejandroseminario/️-interfaces-en-java-contratos-de-comportamiento-para-clases-50ff38af9b43
