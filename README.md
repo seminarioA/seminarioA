@@ -47,10 +47,20 @@
 </table>
 
 <h2 align="center">📚 Education / Educacion</h2>
-
-| Country | University / Universidad              | Entry date | Degree / Grado en |
-|--------|----------------------------------------|------------|-------------------------------------|
-| Perú   | Universidad Tecnologica del Peru (UTP) | 2022       | Ingeniería de Sistemas e Informática
+<table align="center">
+   <tr>
+      <th>Country </th>
+      <th>University / Universidad</th>
+      <th>Entry date</th>
+      <th>Degree / Grado en</th>
+   </tr>
+   <tr>
+      <td>Perú</td>
+      <td>Universidad Tecnologica del Peru (UTP)</td>
+      <td>2022</td>
+      <td>Ingeniería de Sistemas e Informática</td>
+   </tr>
+</table>
 
 ## 📄 Published articles / Articulos Publicados
 | Date / Fecha| Title of publication / Título de publicación | URL |
