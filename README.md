@@ -1,6 +1,16 @@
 ## 🧑‍💻 Alejandro Seminario, Software Developer and Data Scientist
 
-[![linkedin](https://i.postimg.cc/8P2pfsYG/linkedin.png)](https://www.linkedin.com/in/alejandrovalentinoseminariomedina)
+<table>
+   <tr align="center">
+       <th colspan="4">
+           Social Networks
+       </th>
+    </tr>
+    <tr align="center">
+        <td><img src="https://i.postimg.cc/8P2pfsYG/linkedin.png"></td>
+        <td><img src="https://i.postimg.cc/d18KYZFj/nuevo-diseno-icono-x-logotipo-twitter-2023-1017-45418-1.png"></td>
+    </tr>
+</table>
 
 ## Technologies I use / Tecnologías que utilizo:
 
