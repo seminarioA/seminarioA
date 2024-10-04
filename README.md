@@ -7,7 +7,7 @@
        </th>
     </tr>
     <tr align="center">
-        <td><img src="https://i.postimg.cc/8P2pfsYG/linkedin.png"></td>
+        <td><a href="https://www.linkedin.com/in/alejandroseminariomedina/"><img src="https://i.postimg.cc/8P2pfsYG/linkedin.png"></a></td>
         <td><img src="https://i.postimg.cc/d18KYZFj/nuevo-diseno-icono-x-logotipo-twitter-2023-1017-45418-1.png"></td>
     </tr>
 </table>
