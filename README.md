@@ -79,7 +79,7 @@
    <tr>
       <td>22/09/2024</td>
       <td>🦭 Git: Comandos básicos para control de versiones</td>
-      <td><p><a href="https://medium.com/@alejandroseminario/git-comandos-básicos-para-control-de-versiones-45ec578a6a3c">Presiona aquí</a></p>Presiona aquí</td>
+      <td><p><a href="https://medium.com/@alejandroseminario/git-comandos-básicos-para-control-de-versiones-45ec578a6a3c">Presiona aquí</a></p></td>
    </tr>
    
 </table>
