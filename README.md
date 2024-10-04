@@ -1,8 +1,8 @@
-## Alejandro Seminario - Software Developer and Data Scientist
+## 🧑‍💻 Alejandro Seminario, Software Developer and Data Scientist
 
 [![linkedin](https://i.postimg.cc/8P2pfsYG/linkedin.png)](https://www.linkedin.com/in/alejandrovalentinoseminariomedina)
 
-## Technologies I use - Tecnologías que utilizo:
+## Technologies I use / Tecnologías que utilizo:
 
 Programming languages:
 
@@ -20,7 +20,7 @@ Python:
 [![pandas](https://i.postimg.cc/x18v8xBh/Pandas-1.png)](https://github.com/seminarioA/pandas)
 [![numpy.png](https://i.postimg.cc/YCTW9p6L/numpy.png)](https://postimg.cc/21F69NXC)
 
-## Education - Educacion
+## 📚 Education / Educacion
 - (ES) Universidad Tecnologica del Peru (UTP): Ingenieria de Sistemas e Informatica (2022)
 
 ## 📄 Published articles / Articulos Publicados
