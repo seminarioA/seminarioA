@@ -9,7 +9,7 @@
     <tr align="center">
         <td><a href="https://www.linkedin.com/in/alejandroseminariomedina/"><img src="https://i.postimg.cc/8P2pfsYG/linkedin.png"></a></td>
         <td><img src="https://i.postimg.cc/d18KYZFj/nuevo-diseno-icono-x-logotipo-twitter-2023-1017-45418-1.png"></td>
-       <td><img src="https://i.postimg.cc/kXwfBQvh/medium-logo-icon-189223-1.png"</td>
+       <td><a href="https://medium.com/@alejandroseminario"><img src="https://i.postimg.cc/kXwfBQvh/medium-logo-icon-189223-1.png"></a></td>
     </tr>
 </table>
 
