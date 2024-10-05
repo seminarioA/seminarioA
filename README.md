@@ -24,6 +24,7 @@
 
 <h2 align="center">What do I work with? / ¿Con qué trabajo?</h2>
 
+<h3 align="center">🐍 Python</h3>
 <table border="1" align="center">
    <tr>
       <th>Languages</th>
@@ -44,11 +45,20 @@
          <img src="https://i.postimg.cc/9QG0L0RZ/image-3-1.png">
       </td>
    </tr>
+</table>
+
+<h3 align="center">☕ Java</h3>
+
+<table align="center">
+   <tr>
+      <th>Languages</th>
+      <th colspan="2">Frameworks</th>
+   </tr>
    <tr align="center">
       <td>
          <img src="https://i.postimg.cc/GtbM5P9R/java.png">
       </td>
-      <td colspan="2"></td>
+      <td><img src="https://i.postimg.cc/HWFK1tvb/spring-Framework.png"></td>
       <td>
          <img src="https://i.postimg.cc/d0Pd0gdm/spring-boot-logo-1.png">
       </td>
