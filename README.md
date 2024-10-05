@@ -22,7 +22,7 @@
    </tr>
 </table>
 
-<h2 align="center">With what job? / ¿Con qué trabajo?</h2>
+<h2 align="center">What do I work with? / ¿Con qué trabajo?</h2>
 
 <table border="1" align="center">
    <tr>
