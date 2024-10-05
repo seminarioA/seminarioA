@@ -16,7 +16,7 @@
       </td>
       <td>
          <a href="https://medium.com/@alejandroseminario">
-            <img src="https://i.postimg.cc/kXwfBQvh/medium-logo-icon-189223-1.png">
+            <img src="https://i.postimg.cc/wjwQgqxn/medium.png">
          </a>
       </td>
    </tr>
