@@ -55,7 +55,7 @@
    </tr>
 </table>
 
-<h3 align="center">SQL</h3>
+<h3 align="center">Databases / Bases de Datos</h3>
 
 <table align="center">
    <tr align="center">
