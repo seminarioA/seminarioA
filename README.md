@@ -22,7 +22,7 @@
    </tr>
 </table>
 
-<h2 align="center">What do I work with? / ¿Con qué trabajo?</h2>
+<h2 align="center">¿Cuál es mi stack?</h2>
 
 <h3 align="center">🐍 Python</h3>
 <table border="1" align="center">
