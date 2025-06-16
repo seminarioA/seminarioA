@@ -1,5 +1,5 @@
 <h2 align="center">🧑‍💻 Alejandro Seminario</h2>
-<h3 align="center">Software Developer and Machine Learning Engineer</h3>
+<h3 align="center">Machine Learning Engineer & Software Engineer</h3>
 
 <table align="center">
    <tr align="center">
@@ -22,7 +22,7 @@
    </tr>
 </table>
 
-<h2 align="center">¿Cuál es mi stack?</h2>
+<h2 align="center">What is my stack? / ¿Cuál es mi stack?</h2>
 
 <h3 align="center">🐍 Python</h3>
 <table border="1" align="center">
