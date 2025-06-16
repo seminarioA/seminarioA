@@ -12,9 +12,6 @@
          </a>
       </td>
       <td>
-         <img src="https://i.postimg.cc/d18KYZFj/nuevo-diseno-icono-x-logotipo-twitter-2023-1017-45418-1.png">
-      </td>
-      <td>
          <a href="https://medium.com/@alejandroseminario">
             <img src="https://i.postimg.cc/wjwQgqxn/medium.png">
          </a>
