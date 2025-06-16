@@ -29,7 +29,7 @@
    <tr>
       <th>Languages</th>
       <th colspan="2">Libraries</th>
-      <th>Frameworks</th>
+      <th colspan="2">Frameworks</th>
    </tr>
    <tr align="center">
       <td>
@@ -38,12 +38,9 @@
       <td>
          <img src="https://i.postimg.cc/x18v8xBh/Pandas-1.png">
       </td>
-      <td>
-         <img src="https://i.postimg.cc/YCTW9p6L/numpy.png">
-      </td>
-      <td>
-         <img src="https://i.postimg.cc/9QG0L0RZ/image-3-1.png">
-      </td>
+      <td><img src="https://i.postimg.cc/YCTW9p6L/numpy.png"></td>
+      <td><img src="https://i.postimg.cc/9QG0L0RZ/image-3-1.png"></td>
+      <td><img src="https://i.postimg.cc/NFrvbW1B/image-33-1.png"></td>
    </tr>
 </table>
 
