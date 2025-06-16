@@ -1,5 +1,5 @@
 <h2 align="center">🧑‍💻 Alejandro Seminario</h2>
-<h3 align="center">Software Developer and Data Scientist</h3>
+<h3 align="center">Software Developer and Machine Learning Engineer</h3>
 
 <table align="center">
    <tr align="center">
