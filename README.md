@@ -6,7 +6,7 @@
 
 </table>
 
-<h2 align="center">Stack?</h2>
+## Stack
 
 ### Machine Learning:
 
