@@ -1,10 +1,8 @@
-<h2 align="center">🧑🏻‍🔬 Alejandro Seminario Medina</h2>
-<h3 align="center">Machine Learning Engineer | Computer Vision Engineer | MLOps</h3>
+# 🧑🏻‍🔬 Alejandro Seminario Medina</h2>
+### Machine Learning Engineer · Computer Vision Engineer · MLOps
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
-
-</table>
 
 ## Stack
 
