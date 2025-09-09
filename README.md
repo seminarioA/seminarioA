@@ -1,82 +1,46 @@
-<h2 align="center">🧑‍💻 Alejandro Seminario</h2>
-<h3 align="center">Machine Learning Engineer & Software Engineer</h3>
+<h2 align="center">🧑🏻‍🔬 Alejandro Seminario Medina</h2>
+<h3 align="center">Machine Learning Engineer | Computer Vision Engineer | MLOps</h3>
 
-<table align="center">
-   <tr align="center">
-      <th colspan="4">Social Networks</th>
-   </tr>
-   <tr align="center">
-      <td>
-         <a href="https://www.linkedin.com/in/alejandroseminariomedina/">
-            <img src="https://i.postimg.cc/8P2pfsYG/linkedin.png">
-         </a>
-      </td>
-      <td>
-         <a href="https://medium.com/@alejandroseminario">
-            <img src="https://i.postimg.cc/wjwQgqxn/medium.png">
-         </a>
-      </td>
-   </tr>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+
 </table>
 
 <h2 align="center">What is my stack? / ¿Cuál es mi stack?</h2>
 
-<h3 align="center">🐍 Python</h3>
-<table border="1" align="center">
-   <tr>
-      <th>Languages</th>
-      <th colspan="2">Libraries</th>
-      <th colspan="2">Frameworks</th>
-   </tr>
-   <tr align="center">
-      <td>
-         <img src="https://i.postimg.cc/fyMWLPq9/python.png">
-      </td>
-      <td>
-         <img src="https://i.postimg.cc/x18v8xBh/Pandas-1.png">
-      </td>
-      <td><img src="https://i.postimg.cc/YCTW9p6L/numpy.png"></td>
-      <td><img src="https://i.postimg.cc/9QG0L0RZ/image-3-1.png"></td>
-      <td><img src="https://i.postimg.cc/NFrvbW1B/image-33-1.png"></td>
-   </tr>
-</table>
+### Machine Learning:
 
-<h3 align="center">☕ Java</h3>
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-<table align="center">
-   <tr>
-      <th>Languages</th>
-      <th colspan="2">Frameworks</th>
-   </tr>
-   <tr align="center">
-      <td>
-         <img src="https://i.postimg.cc/GtbM5P9R/java.png">
-      </td>
-      <td><img src="https://i.postimg.cc/HWFK1tvb/spring-Framework.png"></td>
-      <td>
-         <img src="https://i.postimg.cc/d0Pd0gdm/spring-boot-logo-1.png">
-      </td>
-   </tr>
-</table>
 
-<h3 align="center">Databases / Bases de Datos</h3>
+### Python:
 
-<table align="center">
-   <tr align="center">
-      <th colspan="3">SQL</th>
-   </tr>
-   <tr align="center">
-      <td>
-         <img src="https://i.postimg.cc/Qd3XqmLt/sqlite-2.png">
-      </td>
-      <td>
-         <img src="https://i.postimg.cc/xdKSzRzy/postgresqp.png">
-      </td>
-      <td>
-         <img src="https://i.postimg.cc/htQ0MZMx/mongodb-2.png">
-      </td>
-   </tr>
-</table>
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Pytest](https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3)
+
+### Back - End:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+### DevOps:
+
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 <h2 align="center">📚 Education / Educación</h2>
 
