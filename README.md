@@ -6,7 +6,7 @@
 
 </table>
 
-<h2 align="center">What is my stack? / ¿Cuál es mi stack?</h2>
+<h2 align="center">Stack?</h2>
 
 ### Machine Learning:
 
